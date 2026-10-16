@@ -68,7 +68,7 @@ FOCUS ──► useful AI       reliable systems       secure-by-design software
 
 ## 🚀 Build log / project radar
 
-> These cards describe my current project directions. I add direct repository links when a project is ready to share publicly.
+> These cards describe my current project directions. I will add direct repository links when a project is ready to share publicly.
 
 <table>
   <tr>
